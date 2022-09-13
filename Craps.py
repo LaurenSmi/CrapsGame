@@ -1,6 +1,5 @@
 # This program plays a modified game of 'craps'
 # Name: Lauren Smillie
-# Teacher: Mr. Rogers
 # Created on 11/10/2020
 
 import random
